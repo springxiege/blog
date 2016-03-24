@@ -13,30 +13,31 @@ Now , I will do it.
 开始写下建站的一些需求及内容：
 
 
-1、首先是网站首页要放哪些内容
+1、关于CSS方面的一些资料
 
---> 动画库相关资料，作为前端熟悉css3的必须资料
---> 动画库链接地址：https://www.awesomes.cn/repos/Dom/animation
+	1.1 动画库相关资料，作为前端熟悉css3的必须资料，动画库链接地址：https://www.awesomes.cn/repos/Dom/animation
 
---> 另外一个平时大家用得比较多的css3动画库
-
+	1.2 另外一个平时大家用得比较多的css3动画库https://daneden.github.io/animate.css/
 
 
 
---> javascript工具库
 
+2、javascript工具库
 
+	2.1 Lodash 是一个具有一致接口、模块化、高性能等特性的 JavaScript 工具库。比相同功能的 Underscore.js 使用更广泛。
 
---> Lodash 是一个具有一致接口、模块化、高性能等特性的 JavaScript 工具库。比相同功能的 Underscore.js 使用更广泛。
---> Lodash链接地址：http://lodashjs.com/
---> Lodash的API文档地址：http://lodashjs.com/docs/
+	2.2 Lodash链接地址：http://lodashjs.com/
 
---> Underscore.js是一个 JavaScript 工具库，它提供了一整套函数式编程的实用功能，弥补了 jQuery 没有实现的功能，同时又是 Backbone 必不可少的部分。
---> 链接地址：http://www.bootcss.com/p/underscore/
+	2.3 Lodash的API文档地址：http://lodashjs.com/docs/
 
---> swiper插件，Swiper是纯javascript打造的滑动特效插件，面向手机、平板电脑等移动终端。
---> 中文网址：http://www.swiper.com.cn/
---> 英文网址：http://idangero.us/swiper/#.VvPjJXYrLIU
+	2.4 Underscore.js是一个 JavaScript 工具库，它提供了一整套函数式编程的实用功能，弥补了 jQuery 没有实现的功能，同时又是 Backbone 必不可少的部分。链接地址：http://www.bootcss.com/p/underscore/
+
+	2.5 swiper插件，Swiper是纯javascript打造的滑动特效插件，面向手机、平板电脑等移动终端。
+
+	2.6 中文网址：http://www.swiper.com.cn/
+
+	2.7 英文网址：http://idangero.us/swiper/#.VvPjJXYrLIU
+
 
 
 
